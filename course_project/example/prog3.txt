@@ -1,0 +1,3 @@
+60 C = C+1
+70 LET A = 4
+80 INPUT "GUESS A NUMBER?", G, "4", D
